@@ -1,12 +1,12 @@
 <div id="top"></div>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/noirdevelopment/noirgen]
+[![Forks][forks-shield]][[https://github.com/noirdevelopment/noirgen]
+[![Stargazers][stars-shield]][[https://github.com/noirdevelopment/noirgen]
+[![Issues][issues-shield]][[https://github.com/noirdevelopment/noirgen]
+[![MIT License][license-shield]][[https://github.com/noirdevelopment/noirgen]
+[![LinkedIn][linkedin-shield]][[https://github.com/noirdevelopment/noirgen]
 
 
 
