@@ -33,7 +33,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">NoirGen</h3>
+<h3 align="center">NoirCord</h3>
 
   <p align="center">
     A seamless generator for discord tokens.
@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-NoirGen is a seamless generator for discord tokens / accounts.
+NoirCord is a seamless generator for discord tokens / accounts.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
