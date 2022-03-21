@@ -118,15 +118,20 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Download chromedriver [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
-2. Clone the repo
+
+3. Add chromedriver to path.
+
+4. Clone the repo
    ```sh
    git clone https://github.com/noirdevelopment/noirgen.git
    ```
-3. Install pip packages
+ 
+5. Install pip packages
    ```sh
    pip install -r requiremnets
    ```
-4. Enter your email in `config.json`
+   
+6. Enter your email in `config.json`
    ```json
    {
        "email": "emailusernamehere"
@@ -140,7 +145,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The discord accounts generated with this tool can be used for various purposes such as testing and so on and so forth.
 
 _For more examples, please refer to the [Documentation](https://docs.noirgen.gq)_
 
