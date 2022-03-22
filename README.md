@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-NoirCord is a seamless generator for discord tokens / accounts.
+This project is completly a proof of concept and is only meant for educational purposes. I am not responsibile nor do I condone anything that you do with this piece of software.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
